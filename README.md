@@ -1,12 +1,12 @@
-Olá, eu sou o Antonio! 👋
+Olá, eu sou o Antonio! 
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Eu sou um desenvolvedor [Sua Área de Atuação, ex: Front-End, Back-End] com paixão por criar soluções eficientes e elegantes. Atualmente, estou focado em [Tecnologia que você está estudando ou trabalhando, ex: React.js, Python e Django].
 
-#### 🛠️ Minhas Habilidades
+#### Minhas Habilidades
 
 * **Linguagens:** [Linguagem 1, Linguagem 2, Linguagem 3]
 * **Frameworks:** [Framework 1, Framework 2, Framework 3]
@@ -14,10 +14,11 @@ Eu sou um desenvolvedor [Sua Área de Atuação, ex: Front-End, Back-End] com pa
 * **Banco de Dados:** [Banco de Dados 1, Banco de Dados 2]
 
 ---
+gráfica 
 
-#### 🤝 Contato
+X=[1, 2, 3], Y=[10, 25, 15]'
+#### Contato
 
-* **LinkedIn:** [Seu LinkedIn](Link do seu perfil)
-* **Email:** [Seu Email](mailto:seu-email@exemplo.com)
+* **Email:Emailto:antonioneto03698@gmail.com)
 
 ---
